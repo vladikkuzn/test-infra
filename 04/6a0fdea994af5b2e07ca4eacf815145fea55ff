@@ -1,0 +1,19 @@
+config/jobs/image-pushing/k8s-staging-kueue.yaml
+  s_f14ec99b5ff522::t_2f08f71763d682 48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "046a0fdea994af5b2e07ca4eacf815145fea55ff",
+  "prompts": {},
+  "sessions": {
+    "s_f14ec99b5ff522": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "agent-2d7e79b6-ae43-464d-986e-7b8d532a6d7d",
+        "model": "unknown"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
