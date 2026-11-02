@@ -1,0 +1,25 @@
+config/jobs/kubernetes-sigs/kueue/kueue-periodics-main.yaml
+  s_0eb6542c9d2123::t_e543f05db05ce8 26,71,113,192,235,278,321,364,403,441,480,519,558
+config/jobs/kubernetes-sigs/kueue/kueue-periodics-release-0-20.yaml
+  s_0eb6542c9d2123::t_0fdda99cffde7e 26,71,113,192,235,278,321,364,403,441,480,519,558
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-main.yaml
+  s_0eb6542c9d2123::t_ef73d1d021a4f7 19,56,94,125,160,195,230,265,1886,1917,1984,2017,2086,2119,2232
+config/jobs/kubernetes-sigs/kueue/kueue-presubmits-release-0-20.yaml
+  s_0eb6542c9d2123::t_4f91b1ad501c65 19,56,94,125,160,195,230,265,1725,1756,1823,1856,1925,1958,2071
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0ec17545a4d3ac250948220b5799d749bbe0d71b",
+  "prompts": {},
+  "sessions": {
+    "s_0eb6542c9d2123": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "462589e4-bcfa-4ab6-aaa5-ec478d405291",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
