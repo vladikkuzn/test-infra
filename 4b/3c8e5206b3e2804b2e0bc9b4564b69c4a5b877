@@ -1,0 +1,19 @@
+config/jobs/kubernetes-sigs/kueue/kueue-postsubmits-main.yaml
+  s_7edb3959f5b31b::t_095d40b0143907 7-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b3c8e5206b3e2804b2e0bc9b4564b69c4a5b877",
+  "prompts": {},
+  "sessions": {
+    "s_7edb3959f5b31b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02914f17-05f2-4596-b9e3-4b2b586c0e51",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "vladikkuzn <vladikkuzn1@gmail.com>"
+    }
+  }
+}
